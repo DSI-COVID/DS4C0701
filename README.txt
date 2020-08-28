@@ -3,7 +3,7 @@ This repository contains data sets used in the research article "Diagnostic seri
 
 # Data sets and variables
 1) PatientInfo_encrypted.csv
-patient_id: encrypted patients' ID's
+patient_id: encrypted patient ID
 province: location of residence
 infection_case: infection route
 infected_by: infector's ID (encrypted as in patient_id)
