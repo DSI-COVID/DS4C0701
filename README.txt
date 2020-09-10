@@ -37,3 +37,12 @@ elderly_population_ratio: the ratio of the elderly population
 elderly_alone_ratio: the ratio of elderly households living alone
 nursing_home_count: the number of nursing homes
 Source of the statistic: KOSTAT (Statistics Korea)
+
+5) COSIb_DS4C0701.csv
+Observed clinical onset serial intervals (Data set B, 102 pairs). Please refer to the supplementary material of our article at doi:https://doi.org/10.1016/j.ijid.2020.07.068 for detailed information.
+
+6) DSIb_DS4C0701.csv
+Observed diagnostic serial intervals (Data set B, 102 pairs). Please refer to the supplementary material of our article at doi:https://doi.org/10.1016/j.ijid.2020.07.068 for detailed information.
+
+7) DSI_DS4C0701.csv
+Observed diagnostic serial intervals (Data set A, 1235 pairs). Please refer to the supplementary material of our article at doi:https://doi.org/10.1016/j.ijid.2020.07.068 for detailed information.
